@@ -5,3 +5,4 @@ Git push.
 Creating a new branch is quick and simple.
 Add merge.
 Add change.
+Add second change.
