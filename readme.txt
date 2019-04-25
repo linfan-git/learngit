@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git push.
 Creating a new branch is quick and simple.
 Add merge.
+Add dev change.
