@@ -8,3 +8,4 @@ Add change.
 Add second change.
 Add dev conflict.
 Add unstaged changes.
+fix bug.
